@@ -1,0 +1,1 @@
+This is written for Oracles online PL/SQL environment.

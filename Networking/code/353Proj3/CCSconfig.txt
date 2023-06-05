@@ -1,0 +1,12 @@
+1_1: global
+1_2: global
+2_1: global
+2_2: global
+3_1: global
+3_2: global
+4_1: global
+4_2: global
+5_1: global
+5_2: global
+6_1: global
+7_1: global

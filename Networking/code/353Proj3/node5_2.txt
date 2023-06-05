@@ -1,0 +1,3 @@
+1_1: 52 to 11, Elves.
+5_1: 52 to 51, Aliens.
+2_1: 52 to 21, Zombies.
