@@ -1,1 +1,24 @@
 A repository presenting some projects to a prospective employer.
+
+A brief summary of the projects by folder name:
+
+LEADERSHIP AND SECURITY:
+
+A tool, written in python, to turn passwords into human memorizable phrases that are theoretically easier to remember.
+
+OBJECT ORIENTED PROGRAMMING:
+
+Written in Java, an interpreter for the functional programming language Lisp.
+
+SQL:
+
+A basic, real-world setup mimicking implementation of business logic in SQL, has queries, procedures and triggers. Produced from an ER diagram and a relational schema.
+
+MACHINE LEARNING:
+
+An auto-encoder for a certain set of recorded spoken digits (currently only 'zero'). Will take an audio file as input, encode it to a much smaller size,
+and then the decoder will be able to produce an audible representation of the zero, from the encoded word. Uses Mel Spectrograms as the encode-decode basis. 
+
+NETWORKING:
+
+A star-of-stars network that instantiates clients and servers to send and receive data frames on a local network. 
