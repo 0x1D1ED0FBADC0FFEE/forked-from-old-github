@@ -23,7 +23,7 @@ import java.io.FileWriter;   // Import the FileWriter class
 import java.io.IOException;
 import java.io.File; 
 
-public class AschwierzLisp {
+public class LispInterpreter {
 
     public static Hashtable<String,String> vars = new Hashtable<>();/**Used to store all user defined variables */
     public static Hashtable<String, String> litLists = new Hashtable<>(); /**Stores literal lists as strings*/
